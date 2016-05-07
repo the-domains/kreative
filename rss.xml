@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kreative]]></title>
+        <description><![CDATA[Kreative]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 May 2016 19:03:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Integrated Physical Therapy – McKinney, TX Welcome to Integrated Physical Therapy where patient care is unique because we practice an integrated, whole body approach to physical therapy treatment. This approach is used to treat a wide variety of individuals with acute/chronic pain and dysfunction. Our goal is for each individual to achieve their maximal potential. Our therapists assist these individuals by providing personalized one-to-one care with hands-on physical therapy. Each therapist brings decades of clinical experience as well as years of post-graduate training to their approach to patient care. Physicians recognize our expertise and this is one of the many reasons they refer to Integrated Physical Therapy. We look forward to welcoming you to Integrated Physical Therapy. Please refer to our treatment approach to learn more about what we do. If you have additional questions please contact using the online form below or call us at 469.854.8570 and we will gladly answer them.</p>]]></description>
+            <link>undefinedintegrated-physical-therapy-mckinney-tx-welcome-to-integr/index.html</link>
+            <guid isPermaLink="false">b18257e7-c7ac-4269-b975-f5775d801aca</guid>
+            <pubDate>Sat, 07 May 2016 19:03:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
